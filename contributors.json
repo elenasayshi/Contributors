@@ -956,4 +956,16 @@
 			"YARG": [ "Developer" ]
 		}
 	}
+	{
+    "Name": "theownershesyashi",
+    "Socials": {
+        "Bluesky": "speedrunner",
+        "Twitch": "ElenaSaysHilol",
+        "Github": "elenasayshi",
+        "VideoService": "elenasayshi",
+    },
+    "Contributions": {
+        "YARC-Charters": [ "Charter", "SFXArtist" ],
+    }
+}
 ]
